@@ -21,7 +21,7 @@ Currently working in *Software Engineering Division* as a ***Fullstack Developer
 
 ## 🔍 Currently Learning:
 - Financial Analyst
-- 
+- MERN Tech Stack
 
 ## 🚀 How to reach me:
 - Email: [edwaldo.utama@gmail.com](mailto:edwaldo.utama@gmail.com)
