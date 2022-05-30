@@ -10,7 +10,7 @@
 👋 Hello. my name is Edwaldo Utama you could call me Edo, feel free to ask me anything i'm eager to learn new things.
 
 ## 💼 Career
-Currently working in *Software Engineering Division* as a ***Fullstack Developer *** at [Ecentrix Sollutions Official].
+Currently working in *Software Engineer* as a ***Fullstack Developer*** at Ecentrix Sollutions Official.
 
 ## 💻 Tech Experiences
 - JS Vanilla
