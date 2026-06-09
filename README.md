@@ -94,29 +94,32 @@ I'm **Edwaldo Utama** — you can call me **Edo**. A **Senior Full-Stack Softwar
 ## 🔍 Currently Learning
 
 - 🤖 **AI Engineering** — LLM agents with LangChain / LangGraph & RAG
-- 🌐 **Distributed Systems** & platform scalability
-- 📊 **Quantitative & Financial Analysis**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edwaldo12&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Edo's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwaldo12&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=00000000" alt="Edo's Top Languages" />
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edwaldo12&theme=github_dark" alt="Edo's Profile Summary" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldo12&theme=dracula&hide_border=true&background=00000000" alt="Edo's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwaldo12&theme=dracula&hide_border=true" alt="Edo's GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edwaldo12&theme=react-dark&hide_border=true&bg_color=00000000&color=F4A4B5&line=F4A4B5&point=ffffff" alt="Edo's Contribution Graph" width="95%" />
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edwaldo12&theme=github_dark" alt="Top Languages by Repo" />
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edwaldo12&theme=github_dark" alt="Most Committed Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=edwaldo12&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Edo's Trophies" />
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edwaldo12&theme=github_dark" alt="Edo's GitHub Stats" />
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edwaldo12&theme=github_dark&utcOffset=7" alt="Edo's Productive Time" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=edwaldo12&theme=react-dark&hide_border=true&bg_color=00000000&color=F4A4B5&line=F4A4B5&point=ffffff&area=true" alt="Edo's Contribution Graph" />
 
 </div>
 
