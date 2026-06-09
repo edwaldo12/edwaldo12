@@ -125,6 +125,14 @@ I'm **Edwaldo Utama** — you can call me **Edo**. A **Senior Full-Stack Softwar
 
 ---
 
+## 📈 Detailed Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/edwaldo12/edwaldo12/main/github-metrics.svg" alt="Edo's detailed GitHub metrics" />
+</div>
+
+---
+
 ## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
