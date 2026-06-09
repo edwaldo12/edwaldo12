@@ -125,6 +125,18 @@ I'm **Edwaldo Utama** — you can call me **Edo**. A **Senior Full-Stack Softwar
 
 ---
 
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edwaldo12/edwaldo12/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edwaldo12/edwaldo12/output/github-snake.svg" />
+    <img width="95%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/edwaldo12/edwaldo12/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🌐 How to reach me
 
 <div align="center">
